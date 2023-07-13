@@ -10,7 +10,6 @@ section.repository-list {
 
     li {
       & + li {
-        //toda li que antes dela tiver uma li vai ter uma margin top também
         margin-top: 20px;
       }
     }
